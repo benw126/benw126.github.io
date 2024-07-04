@@ -10,11 +10,13 @@ I am Ben, a fresh graduate with a BSc in Mathematics at the University of Hong K
 
 # Portfolio
 
-This place includes projects and articles related to artificial intelligence and machine learning. Feel free to explore! 
+This place contains projects and articles related to artificial intelligence (AI) and machine learning (ML). Feel free to explore! 
 
 - [Approximation of Fermi Surface by SVM](https://github.com/benw126/Fermi-Surface-SVM)
 - [2D Ising Model Phases Classifier](https://github.com/benw126/Ising-Model-Phases-Classifier-FNN)
 
 # Mathematics Garden
 
-My mathematics writings are here. 
+My mathematical writings are collected here.
+
+- [Matrix Decomposition Algorithms](https://github.com/benw126/Matrix-Decomposition-Algorithms)
