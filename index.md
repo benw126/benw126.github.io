@@ -17,7 +17,17 @@ This place contains projects and articles related to artificial intelligence (AI
 
 # Mathematics Garden
 
-My mathematical writings are collected here.
+My mathematical work are collected here.
 
 - [Matrix Decomposition Algorithms](https://github.com/benw126/Matrix-Decomposition-Algorithms)
 - [An Icosahedral Edge Coloring Problem](./pages/ico/index.html)
+
+# Teaching
+
+During my free time, I teach high school students in the HKDSE curriculum, focusing on Mathematics, Module 2 and Physics. I have made a full set of notes for Mathematics. Please feel free to contact me if you are interested in obtaining these notes for free.
+
+# Contact Info
+
+- Linkedin: https://linkedin.com/in/benwkf
+- Github: https://github.com/benw126
+- Email: [benben.bb944@gmail.com](mailto:x@x.com)
