@@ -19,8 +19,8 @@ This place contains projects and articles related to artificial intelligence and
 
 My mathematical works are collected here.
 
-- [Matrix Decomposition Algorithms](https://github.com/benw126/Matrix-Decomposition-Algorithms)
 - [An Icosahedral Edge Coloring Problem](./ico.html)
+- [Matrix Decomposition Algorithms](https://github.com/benw126/Matrix-Decomposition-Algorithms)
 
 # Teaching
 
