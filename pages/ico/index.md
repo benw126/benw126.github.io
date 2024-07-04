@@ -7,4 +7,4 @@ This was a side project for Department of Mathematics at HKU, under the supervis
 
 The code can be found on [here](https://github.com/benw126/HKU-Collaboration/blob/main/Putnam-Problem-Icosahedron/code.py).
 
-[back](././)
+[back](././index.html)
