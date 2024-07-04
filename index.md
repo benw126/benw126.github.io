@@ -28,6 +28,6 @@ During my free time, I teach high school students in the HKDSE curriculum, focus
 
 # Contact Info
 
-- Linkedin: https://linkedin.com/in/benwkf
-- Github: https://github.com/benw126
+- Linkedin: [https://linkedin.com/in/benwkf](https://linkedin.com/in/benwkf)
+- Github: [https://github.com/benw126](https://github.com/benw126)
 - Email: [benben.bb944@gmail.com](mailto:x@x.com)
