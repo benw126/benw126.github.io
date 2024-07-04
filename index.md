@@ -13,6 +13,7 @@ I am Ben, a fresh graduate with a BSc in Mathematics at the University of Hong K
 This place includes projects and articles related to artificial intelligence and machine learning. Feel free to explore! 
 
 - [Approximation of Fermi Surface by SVM](./Fermi.html).
+- [Testing](./pages/text.html)
 
 # Mathematics Garden
 
