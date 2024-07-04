@@ -6,3 +6,5 @@
 This was a side project for Department of Mathematics at HKU, under the supervision of Dr. Y. K. Tai, during the 2023 summer. The interesting aspect of this combinatorics problem is that it employs linear algebra. To see the full video, here is the [link](https://1drv.ms/v/s!Avn9xlJW5s7-gxgMjcc2bBEDUjCz?e=8rL6hX). This video production was created using Manim, a Python library for creating mathematical animations. 
 
 The code can be found on [here](https://github.com/benw126/HKU-Collaboration/blob/main/Putnam-Problem-Icosahedron/code.py).
+
+[back](./)
