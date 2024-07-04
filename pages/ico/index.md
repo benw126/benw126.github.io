@@ -7,4 +7,4 @@ This was a side project for the Department of Mathematics at HKU, under the supe
 
 I have made a full video about the solution. To see the full video, here is the [link](https://1drv.ms/v/s!Avn9xlJW5s7-gxgMjcc2bBEDUjCz?e=8rL6hX). This video production was created using Manim, a Python library for creating mathematical animations. The code can be found [here](https://github.com/benw126/HKU-Collaboration/blob/main/Putnam-Problem-Icosahedron/code.py).
 
-[back](./index.md)
+[back](../../)
