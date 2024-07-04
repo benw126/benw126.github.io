@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [Link to another page](./another-page.html).
 
-[Link to another page](./another-page.html).
+Welcome to my personal webpage, where you can explore my ongoing projects and read my written works.
 
-There should be whitespace between paragraphs.
+# About Me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I am Ben, a fresh graduate with a BSc in Mathematics at the University of Hong Kong (HKU). I have long been interested in math and physics, and I'm now particularly focused on artificial intelligence and machine learning. I am eager to contribute to the STEM field in meaningful ways. 
 
 # Header 1
 
