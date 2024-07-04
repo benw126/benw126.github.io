@@ -20,3 +20,4 @@ This place contains projects and articles related to artificial intelligence (AI
 My mathematical writings are collected here.
 
 - [Matrix Decomposition Algorithms](https://github.com/benw126/Matrix-Decomposition-Algorithms)
+- [An Icosahedral Edge Coloring Problem](./pages/ico/index.html)
