@@ -2,17 +2,17 @@
 layout: default
 ---
 
-# [Link to another page](./another-page.html).
-
 Welcome to my personal webpage, where you can explore my ongoing projects and read my written works.
 
 # About Me
 
 I am Ben, a fresh graduate with a BSc in Mathematics at the University of Hong Kong (HKU). I have long been interested in math and physics, and I'm now particularly focused on artificial intelligence and machine learning. I am eager to contribute to the STEM field in meaningful ways. 
 
-# Header 1
+# Portfolio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This place includes projects and articles related to artificial intelligence and machine learning. Feel free to explore! 
+
+- [Link to another page](./another-page.html).
 
 ## Header 2
 
