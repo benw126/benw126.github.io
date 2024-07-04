@@ -26,7 +26,7 @@ My mathematical work are collected here.
 
 During my free time, I teach high school students in the HKDSE curriculum, focusing on Mathematics, Module 2 and Physics. 
 
-I have made a full set of notes for Mathematics. Please feel free to contact me if you are interested in obtaining these notes for free.
+I have made a full set of notes for DSE Mathematics. Please feel free to contact me if you are interested in obtaining these notes for free.
 
 # Contact Info
 
