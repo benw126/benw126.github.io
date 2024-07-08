@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Welcome to my personal webpage, where you can explore my ongoing projects and read my written works.
+Welcome to my portfolio website, where you can explore my ongoing projects and read my written works.
 
 # About Me
 
-I am Ben, a fresh graduate with a BSc in Mathematics at the University of Hong Kong (HKU). I have long been interested in math and physics, and I'm now particularly focused on artificial intelligence and machine learning. I am eager to contribute to the STEM field in meaningful ways. 
+I am a researcher at Koi Investment Partners with a BSc in Mathematics from the University of Hong Kong, specializing in AI and machine learning to advance the STEM field.
 
 # Portfolio
 
