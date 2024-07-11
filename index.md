@@ -6,7 +6,7 @@ Welcome to my portfolio website, where you can explore my ongoing projects and r
 
 # About Me
 
-I am a researcher at Koi Investment Partners with a BSc in Mathematics from the University of Hong Kong, specializing in AI and machine learning to advance the STEM field.
+I graduated in the Class of 2024 from the University of Hong Kong (HKU) with a Bachelor of Science in Mathematics. I am currently working as a researcher at Koi Investment Partners, specializing in AI and machine learning.
 
 # Portfolio
 
