@@ -17,7 +17,7 @@ This place contains projects and articles related to artificial intelligence and
 
 # Mathematics Garden
 
-My mathematical works are collected here.
+Our mathematical works are collected here.
 
 - [An Icosahedral Edge Coloring Problem](./ico.html)
 - [Matrix Decomposition Algorithms](https://github.com/benw126/Matrix-Decomposition-Algorithms)
