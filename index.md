@@ -15,6 +15,10 @@ This place contains projects and articles related to artificial intelligence and
 - [Approximation of Fermi Surface by SVM](https://github.com/benw126/Fermi-Surface-SVM)
 - [2D Ising Model Phases Classifier](https://github.com/benw126/Ising-Model-Phases-Classifier-FNN)
 
+# Algorithmic Trading
+
+[Martin Ko](https://www.linkedin.com/in/martinkko/) (HKU E&F '24) and I have initiated an algorithmic trading project focused on cryptocurrency. The project is still in the initial phase :)
+
 # Mathematics Garden
 
 Our mathematical works are collected here.
