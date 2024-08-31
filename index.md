@@ -10,7 +10,7 @@ I graduated in the Class of 2024 from the University of Hong Kong (HKU) with a B
 
 # Rinpoche Algo
 
-[Martin Ko](https://www.linkedin.com/in/martinkko/) (HKU E&F '24) and I have started a partnership business called "Rinpoche Algo". Our mission is to develop algorithmic trading strategies for cryptocurrency.
+[Martin Ko](https://www.linkedin.com/in/martinkko/) (HKU E&F '24) and I have started a partnership business called "Rinpoche Algo". Our mission is to develop profitable trading strategies and algorithmic models for cryptocurrency.
 
 By using blockchain and market datasets, we leverage mathematical techniques and machine learning algorithms to generate long and short signals on a range of top cryptocurrencies and derivatives.
 
