@@ -28,12 +28,6 @@ Our mathematical works are collected here.
 - [An Icosahedral Edge Coloring Problem](./ico.html)
 - [Matrix Decomposition Algorithms](https://github.com/benw126/Matrix-Decomposition-Algorithms)
 
-# Teaching
-
-During my free time, I teach high school students in the HKDSE curriculum, focusing on Mathematics, Module 2 and Physics. 
-
-I have made a full set of notes for DSE Mathematics. Please feel free to contact me if you are interested in obtaining these notes for free.
-
 # Contact Info
 
 - Linkedin: [https://linkedin.com/in/benwkf](https://linkedin.com/in/benwkf)
