@@ -16,15 +16,10 @@ By using blockchain and market datasets, we leverage mathematical techniques and
 
 # Portfolio
 
-This place contains projects and articles related to artificial intelligence and machine learning. Feel free to explore! 
+Here you'll find projects related to machine learning and mathematics that I worked on during my time at HKU. Feel free to explore!
 
 - [Approximation of Fermi Surface by SVM](https://github.com/benw126/Fermi-Surface-SVM)
 - [2D Ising Model Phases Classifier](https://github.com/benw126/Ising-Model-Phases-Classifier-FNN)
-
-# Mathematics Garden
-
-Our mathematical works are collected here.
-
 - [An Icosahedral Edge Coloring Problem](./ico.html)
 - [Matrix Decomposition Algorithms](https://github.com/benw126/Matrix-Decomposition-Algorithms)
 
