@@ -3,7 +3,7 @@ layout: default
 ---
 # About Me
 
-I graduated in the Class of 2024 from the University of Hong Kong (HKU) with a Bachelor of Science in Mathematics. I am currently working as a researcher at Koi Investment Partners, specializing in AI and machine learning. In my spare time, I am a crypto quant trader.
+I graduated in the Class of 2024 from the University of Hong Kong (HKU) with a Bachelor of Science in Mathematics. I am currently working as a researcher at Koi Investment Partners, specializing in AI and machine learning. In my spare time, I am a crypto quant.
 
 # Dorje Algo
 
