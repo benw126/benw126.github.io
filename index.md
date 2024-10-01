@@ -13,7 +13,7 @@ By using blockchain and market datasets, we leverage mathematical techniques and
 
 # Portfolio
 
-Here you'll find projects related to machine learning and mathematics that I worked on during my time at HKU. Feel free to explore!
+Here you'll find projects related to machine learning and mathematics that I worked on during my time at HKU.
 
 - [Approximation of Fermi Surface by SVM](https://github.com/benw126/Fermi-Surface-SVM)
 - [2D Ising Model Phases Classifier](https://github.com/benw126/Ising-Model-Phases-Classifier-FNN)
